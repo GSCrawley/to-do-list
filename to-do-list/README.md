@@ -1,4 +1,6 @@
 
+## This is a simple to-do list built using React and Redux.
+## Input your list items, and as you complete each item click on that item to toggle strikethrough. As your list grows you can choose to view only your active list items, only your inactive items, or both.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
